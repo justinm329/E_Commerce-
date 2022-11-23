@@ -26,9 +26,9 @@ Three datasets are provided for the final project in Blackboard. Each dataset co
 
 There are four sections of the final project. You and your team are expected to perform the following tasks within each section to fulfill the project requirements.
 
-1) Data Importing and Pre-processing
-2) Import dataset and describe characteristics such as dimensions, data types, file types, and import methods used
-3) Clean, wrangle, and handle missing data
+1) Data Importing and Pre-processing *
+2) Import dataset and describe characteristics such as dimensions, data types, file types, and import methods used *
+3) Clean, wrangle, and handle missing data 
 4) Transform data appropriately using techniques such as aggregation, normalization, and feature construction
 5) Reduce redundant data and perform need-based discretization
 
@@ -50,7 +50,8 @@ There are four sections of the final project. You and your team are expected to 
 2) State your findings from the data and provide the interpretation of results from your analysis at each stage in the project
 
 #### Deliverables and Submission Format:
- *Implement the project in either Python or R language. Use Jupyter notebook for Python and R Markdown for R language. Within the Python or R notebook, import all packages used for the project in the first cell, use code cells for code and comments, and use markdown cells for headings and descriptions. Generate a PDF document from your notebook for submission with code, comments, and explanations for analysis and results within the notebook. Divide the work equally between the team members for the first three sections; everyone needs to code!
+
+Implement the project in either Python or R language. Use Jupyter notebook for Python and R Markdown for R language. Within the Python or R notebook, import all packages used for the project in the first cell, use code cells for code and comments, and use markdown cells for headings and descriptions. Generate a PDF document from your notebook for submission with code, comments, and explanations for analysis and results within the notebook. Divide the work equally between the team members for the first three sections; everyone needs to code!
 Prepare a recorded video presentation of your project (slides are optional but recommended) using a screencasting tool, such as Screencast-o-matic or Zoom to record your screen and provide a voice narration. Ensure that the sound quality of your video is good and each member presents an equal portion of the presentation. Export the video file to an mp4 format.
 You may use any recording software you wish. You may want to utilize Screencast-o-matic which is integrated with Blackboard and linked below. You can access it using your USDOne account login. View the  Recording Video Presentation and Submission Guidelines for MS-ADS Students Click for more options  guide for additional recording instructions.
 Submit the final PDF document and video file on the final project submission page of Blackboard. You will use the naming convention Final Project-Team Number.pdf (e.g., Final Project-Team 1.pdf). Only one member of your team will need to submit these deliverables.
