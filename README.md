@@ -28,15 +28,15 @@ There are four sections of the final project. You and your team are expected to 
 
 1) Data Importing and Pre-processing *
 2) Import dataset and describe characteristics such as dimensions, data types, file types, and import methods used *
-3) Clean, wrangle, and handle missing data 
-4) Transform data appropriately using techniques such as aggregation, normalization, and feature construction
-5) Reduce redundant data and perform need-based discretization
+3) Clean, wrangle, and handle missing data *
+4) Transform data appropriately using techniques such as aggregation, normalization, and feature construction **
+5) Reduce redundant data and perform need-based discretization *
 
 ### Data Analysis and Visualization
 
-1) Identify categorical, ordinal, and numerical variables within the data
-2) Provide measures of centrality and distribution with visualizations
-3) Diagnose for correlations between variables and determine independent and dependent variables
+1) Identify categorical, ordinal, and numerical variables within the data Justin
+2) Provide measures of centrality and distribution with visualizations *
+3) Diagnose for correlations between variables and determine independent and dependent variables *
 4) Perform exploratory analysis in combination with visualization techniques to discover patterns and features of interest
 
 ### Data Analytics

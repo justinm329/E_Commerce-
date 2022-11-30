@@ -1,6 +1,6 @@
 Plots:
-1) exit and bounce rate to revenue, compare the revenue they made to the revenue they could have made. *possbily do a barchart
-2) compare Durations to Bounce and Exit rates...boxplots or bar chart, possible histogram3
-3) Scatter plot of revenue and page value
-4) Visitor types and Exit rates, Bar chart*, Violin plot, dot plot
-5) Month and page value, line plot 
+1) exit and bounce rate to revenue, compare the revenue they made to the revenue they could have made. *possbily do a barchart Sam 
+2) compare Durations to Bounce and Exit rates...boxplots or bar chart, possible histogram3 Itzel
+3) Scatter plot of revenue and page value Justin 
+4) Visitor types and Exit rates, Bar chart*, Violin plot, dot plot Sam
+5) Month and page value, line plot Itzel 
