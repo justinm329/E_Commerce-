@@ -34,7 +34,7 @@ There are four sections of the final project. You and your team are expected to 
 
 ### Data Analysis and Visualization
 
-1) Identify categorical, ordinal, and numerical variables within the data Justin
+1) Identify categorical, ordinal, and numerical variables within the data Justin *
 2) Provide measures of centrality and distribution with visualizations *
 3) Diagnose for correlations between variables and determine independent and dependent variables *
 4) Perform exploratory analysis in combination with visualization techniques to discover patterns and features of interest
